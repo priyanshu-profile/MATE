@@ -7,7 +7,7 @@ This repository contains the dataset and code for our paper titled [Facilitating
 The folder MATE.zip contains the code for the proposed MATE framework.
 
 ## Data
-The folder Sample_dataset contains a sample of the datasets used in the work.
+The folder Sample_Dataset contains a sample of the datasets used in the work.
 
 ## Dataset Request Access
 
