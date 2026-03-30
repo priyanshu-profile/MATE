@@ -17,4 +17,14 @@ To request full access to the datasets used in the work, fill out the agreement 
 
 If you are using this work or the dataset, cite the paper
 
+@inproceedings{priya2026facilitating,
+  title={Facilitating Early Maladaptive Schema--Guided Polite and Empathetic Psychotherapeutic Support: An LLM-Driven MoE-RL-Based Dialogue System},
+  author={Priya, Priyanshu and Ekbal, Asif},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={39},
+  pages={32737--32745},
+  year={2026}
+}
+
 
